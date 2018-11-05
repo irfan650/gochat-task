@@ -2,8 +2,8 @@ package main
 import (
 	"fmt"
 	"os"
-	"server" // gochat server package
-	"client" // gochat client package
+	"github.com/irfan650/gochat-task/server" // gochat server package
+	"github.com/irfan650/gochat-task/client" // gochat client package
 	
 )
 func main() {
